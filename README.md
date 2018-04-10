@@ -1,3 +1,3 @@
-> canvas 的小 demo
+> canvas demo
 
 * [时钟](https://yokiyokiyoki.github.io/magic-canvas/clock.html)
